@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KItWhale/Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KItWhale/Chat/issues"
+  },
+  "homepage": "https://github.com/KItWhale/Chat#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "p5": "^0.7.2",
+    "socket.io": "^2.1.1"
+  }
+}
